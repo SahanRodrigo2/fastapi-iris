@@ -21,10 +21,10 @@ The trained model is saved as “model.pkl”.
 
 
 How to Run the Application
-1. Clone the repository:
-   bash
-   git clone https://github.com/<your-username>/fastapi-iris.git
-   cd fastapi-iris
+Clone the repository:
+bash
+git clone https://github.com/SahanRodrigo2/fastapi-iris.git
+cd fastapi-iris
 
 
 
